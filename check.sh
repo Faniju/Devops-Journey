@@ -1,0 +1,6 @@
+echo "=== Server Health Check ==="
+echo "Status: OK"
+echo "Date: $(date)"
+echo "User: $(whoami)"
+echo "Folder: $(pwd)"
+echo "==========================="
